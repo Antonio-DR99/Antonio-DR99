@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h3 align="left">Other Tools and Technologies</h3>
+
 
 ###
 
